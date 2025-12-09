@@ -26,7 +26,7 @@ createInertiaApp({
     },
     progress: {
         delay: 250, 
-        color: '#D4AF37', // Capybara Gold/Food color!
+        color: '#D4AF37', // Capybara Gold Color
         includeCSS: true,
         showSpinner: true,
     },
